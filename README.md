@@ -1,3 +1,3 @@
 # MediaRockerzz
 Java based Media Player
-Created Using JavaFx
+Created Using JavaFx and SceneBuilder
